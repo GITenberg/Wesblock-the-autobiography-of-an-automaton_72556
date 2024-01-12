@@ -1,0 +1,28 @@
+_repo: Wesblock-the-autobiography-of-an-automaton_72556
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walters, Harry McDonald
+    gutenberg_agent_id: '56728'
+    url: http://www.gutenberg.org/2009/agents/56728
+description: ''
+gutenberg_issued: '2023-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72556'
+language: en
+pgterms:marc904: https://archive.org/details/wesblockautobiog00walt/page/n5/mode/2up
+pgterms:marc905: 20210312222310walters
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aLondon :$bJ. M. Dent & Sons Limited, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wesblock, the autobiography of an automaton
+url: http://www.gutenberg.org/ebooks/72556
